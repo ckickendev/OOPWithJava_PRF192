@@ -9,5 +9,5 @@ If you also member of our school, I hope this also help you, maybe a way to solv
 - Nếu thấy không hiểu cái gì, lập tức lên mạng tìm hoặc hỏi giảng viên, vì kiến thức là một chuỗi, các bạn mất một mắc xích, các bạn rất dễ thở bình oxy về sau.
 - Lý thuyết quan trọng, nhưng thực hành quan trọng gấp nhiều lần, các bạn hãy TỰ CODE nhiều lên, trình các bạn mới lên được.
 - Hướng đối tượng chỉ hay khi ta hiểu nó. Và nếu các bạn ngấm được concept này, xin chúc mừng, bạn vừa biết thêm một cái rất hay của lập trình.
-- Không vội vàng, hãy kiên trì, học thêm video trên mạng nữa nhé, và nhớ là hãy TỰ CODE.
+- Không vội vàng, hãy kiên trì, học thêm trên mạng nữa nhé, và nhớ là hãy TỰ CODE.
 - Chúc các bạn thành công.
